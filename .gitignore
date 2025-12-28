@@ -1,0 +1,9 @@
+# 忽略数据库（里面有你的日记和密码，绝对不能传！）
+life_os.db
+
+# 忽略 Python 的缓存文件
+__pycache__/
+*.pyc
+
+# 忽略 Mac 系统垃圾文件（如果你用Mac）
+.DS_Store
